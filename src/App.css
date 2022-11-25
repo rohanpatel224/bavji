@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+@media only screen and (max-width: 600px) {
+  .App {
+    text-align: center;
+  }
+
+  .App-logo {
+    height: 20vmin;
+    pointer-events: none;
+  }
+}
