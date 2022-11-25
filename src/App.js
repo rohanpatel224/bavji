@@ -43,13 +43,13 @@ function App() {
                           display: "flex",
                           justifyContent: "center",
                         }}
-                        href="/patrika"
+                        href="/?page=patrika"
                       >
                         ~ આમંત્રણ પત્રિકા
                       </a>
                       <a
                         style={{ textDecoration: "none", fontSize: "25px" }}
-                        href="/hospital"
+                        href="/?page=hospital"
                       >
                         ~ હોસ્પિટલ ઉપલબ્ધ સેવાઓ, કાર્ડ
                       </a>
